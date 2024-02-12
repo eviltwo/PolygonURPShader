@@ -4,7 +4,7 @@
  **This is unofficial asset.**
 
 The shader included in the Nature biomes series sold by Synty Studio has some problems with URP. 
-- LOD boundaries flicker in built game.
+- LOD borders flicker in built game.
 - Rocks and trees flicker when changing Rendering path to Forward+.
 
 Synty studio seems to be aware of this problem, but I can't wait for it to be fixed, so I created a similar custom shader using ShaderGraph.
