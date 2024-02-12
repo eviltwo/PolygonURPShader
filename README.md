@@ -15,7 +15,7 @@ Synty studio seems to be aware of this problem, but I can't wait for it to be fi
 
 # Sample image
 Forward and Forward+ sample.
-Left:Synty shader, Right: custom shader
+Left : Synty shader, Right : custom shader
 ![PolyURP](https://github.com/eviltwo/PolygonURPShader/assets/7721151/a23877e2-40f8-4d6c-9a6e-e915f29a86d8)
 
 # Settings
