@@ -1,4 +1,4 @@
-# PolygonURPShader
+# Polygon URP shader for Synty
  Custom URP shader for synty material. (Nature biomes series)
  
  **This is unofficial asset.**
