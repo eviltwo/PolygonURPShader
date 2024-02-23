@@ -1,4 +1,6 @@
 # Polygon URP shader for Synty
+**Updating the synty asset to version 1.07 resolved the issue and this asset is no longer needed.**
+
  Custom URP shader for synty material. [(Nature biomes series)](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-meadow-forest-nature-biomes-low-poly-3d-art-by-synty-234255)
  
  **This is unofficial asset.**
